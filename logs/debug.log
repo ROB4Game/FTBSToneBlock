@@ -1,0 +1,150 @@
+[22:44:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:38] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[22:44:38] [main/DEBUG] [FML]: Injecting tracing printstreams for STDOUT/STDERR.
+[22:44:38] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2846 for Minecraft 1.12.2 loading
+[22:44:38] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_202, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jre1.8.0_202
+[22:44:38] [main/DEBUG] [FML]: Java classpath at launch is:
+[22:44:38] [main/DEBUG] [FML]:     FTBserver-1.12.2-14.23.5.2846-universal.jar
+[22:44:38] [main/DEBUG] [FML]: Java library path at launch is:
+[22:44:38] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS\Sun\Java\bin
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:44:38] [main/DEBUG] [FML]:     C:\Program Files (x86)\Common Files\Oracle\Java\javapath
+[22:44:38] [main/DEBUG] [FML]:     C:\Program Files\Common Files\Oracle\Java\javapath
+[22:44:38] [main/DEBUG] [FML]:     C:\Program Files\Eclipse Adoptium\jre-8.0.402.6-hotspot\bin
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS\system32
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS\System32\Wbem
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS\System32\WindowsPowerShell\v1.0\
+[22:44:38] [main/DEBUG] [FML]:     C:\WINDOWS\System32\OpenSSH\
+[22:44:38] [main/DEBUG] [FML]:     C:\ProgramData\chocolatey\bin
+[22:44:38] [main/DEBUG] [FML]:     S:\Putty\
+[22:44:38] [main/DEBUG] [FML]:     C:\Program Files\dotnet\
+[22:44:38] [main/DEBUG] [FML]:     C:\Program Files (x86)\dotnet\
+[22:44:38] [main/DEBUG] [FML]:     C:\Users\Robert\AppData\Local\Microsoft\WindowsApps
+[22:44:38] [main/DEBUG] [FML]:     C:\Users\Robert\AppData\Local\spicetify
+[22:44:38] [main/DEBUG] [FML]:     C:\Users\Robert\AppData\Local\GitHubDesktop\bin
+[22:44:38] [main/DEBUG] [FML]:     %USERPROFILE%\AppData\Local\Microsoft\WindowsApps
+[22:44:38] [main/DEBUG] [FML]:     
+[22:44:38] [main/DEBUG] [FML]:     .
+[22:44:38] [main/DEBUG] [FML]: Determined Minecraft Libraries Root: S:\FTBSToneBlock\libraries
+[22:44:38] [main/DEBUG] [FML]: Cleaning up mods folder: .\mods
+[22:44:38] [main/DEBUG] [FML]: Examining file: ActuallyAdditions-1.12.2-r150.jar
+[22:44:38] [main/DEBUG] [FML]: Examining file: ActuallyBaubles-1.12-1.1.jar
+[22:44:38] [main/DEBUG] [FML]: Examining file: ae2stuff-0.7.0.4-mc1.12.2.jar
+[22:44:38] [main/DEBUG] [FML]: Examining file: AE2WTLib-1.12.2-1.0.30.jar
+[22:44:38] [main/DEBUG] [FML]: Examining file: AkashicTome-1.2-12.jar
+[22:44:38] [main/DEBUG] [FML]: Examining file: angelRingToBauble-1.12-0.3.1.50+d4e654e.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: AppleSkin-mc1.12-1.0.9.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: appliedenergistics2-rv6-stable-7.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: architecturecraft-1.12-3.98.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: AttributeFix-1.12.2-1.0.4.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: AutoRegLib-1.3-32.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Avaritia-1.12.2-3.3.0.33-universal.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: badwithernocookiereloaded-1.12.2-3.3.16.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: base-1.12.2-3.13.0.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Baubles-1.12-1.5.2.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: bdlib-1.14.3.12-mc1.12.2.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: bedpatch-2.2-1.12.2.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: BetterBuildersWands-1.12.2-0.13.2.271+5997513.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: BetterFps-1.4.8.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: blockcraftery-1.12.2-1.3.1.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: bonsaitrees-1.1.3-b156.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Bookshelf-1.12.2-2.3.585.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Botania r1.10-362.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: BrandonsCore-1.12.2-2.4.17.208-universal.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: buildcraft-all-7.99.24.2.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: BuildingGadgets-2.7.3.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Ceramics-1.12-1.3.7.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Chameleon-1.12-4.1.3.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: ChanceCubes-1.12.2-4.1.0.300.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: ChestTransporter-1.12.2-2.8.8.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: chickens-6.1.0.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Chisel-MC1.12.2-0.2.1.35.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: chiselsandbits-14.33.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: ClientTweaks_1.12.2-3.1.11.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Clipboard-1.12-1.3.0.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Clumps-3.1.2.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CodeChickenLib-1.12.2-3.2.3.358-universal.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CoFHCore-1.12.2-4.6.3.27-universal.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CoFHWorld-1.12.2-1.3.1.7-universal.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CommonCapabilities-1.12.2-2.4.4.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: compactmachines3-1.12.2-3.0.18-b278.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: ContentTweaker-1.12.2-4.9.1.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Controlling-3.0.7.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CookingForBlockheads_1.12.2-6.4.71.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CraftingTweaks_1.12.2-8.1.9.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CraftPresence-1.12.2-1.5.5.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CraftTweaker2-1.12-4.1.19.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CTM-MC1.12.2-0.3.3.22.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Cucumber-1.12.2-1.1.3.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CustomMainMenu-MC1.12.2-2.0.9.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: cxlibrary-1.12.1-1.6.1.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: Cyclic-1.12.2-1.19.16.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: CyclopsCore-1.12.2-1.5.0.jar
+[22:44:39] [main/DEBUG] [FML]: Examining file: DankNull-1.12.2-1.6.80.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: DarkUtils-1.12.2-1.8.226.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: DefaultOptions_1.12.2-9.2.8.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: diethopper-1.1.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: Draconic-Evolution-1.12.2-2.3.24.349-universal.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: EnderCore-1.12.2-0.5.69.jar
+[22:44:40] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/EnderCore-1.12.2-0.5.69-core.jar(com.enderio.core:EnderCore:1.12.2-0.5.69:core) from S:\FTBSToneBlock\mods\memory_repo\com\enderio\core\EnderCore\1.12.2-0.5.69\EnderCore-1.12.2-0.5.69-core.jar extracted to .\mods\EnderCore-1.12.2-0.5.69.jar, skipping extraction
+[22:44:40] [main/DEBUG] [FML]: Examining file: EnderCore-1.12.2-0.5.69-core.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: EnderIO-1.12.2-5.1.51.jar
+[22:44:40] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/AutoSave-1.12.2-1.0.11.jar(info.loenwind.autosave:AutoSave:1.12.2-1.0.11) from S:\FTBSToneBlock\mods\memory_repo\info\loenwind\autosave\AutoSave\1.12.2-1.0.11\AutoSave-1.12.2-1.0.11.jar extracted to .\mods\EnderIO-1.12.2-5.1.51.jar, skipping extraction
+[22:44:40] [main/DEBUG] [FML]: Examining file: AutoSave-1.12.2-1.0.11.jar
+[22:44:40] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/AutoConfig-1.12.2-1.0.2.jar(info.loenwind.autoconfig:AutoConfig:1.12.2-1.0.2) from S:\FTBSToneBlock\mods\memory_repo\info\loenwind\autoconfig\AutoConfig\1.12.2-1.0.2\AutoConfig-1.12.2-1.0.2.jar extracted to .\mods\EnderIO-1.12.2-5.1.51.jar, skipping extraction
+[22:44:40] [main/DEBUG] [FML]: Examining file: AutoConfig-1.12.2-1.0.2.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: EnderIO-endergy-1.12.2-5.1.51.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: EnderStorage-1.12.2-2.4.6.137-universal.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: environmentaltech-1.12.2-2.0.20.1.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: Exchangers-1.12.2-2.8.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: ExCompressum_1.12.2-3.0.31.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: exnihilocreatio-1.12.2-0.4.7.1.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: ExpandedEquivalence-1.12.2-12r.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: ExtraCells-1.12.2-2.6.3aNIGHTLY.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: extrautils2-1.12-1.9.9.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: ExtremeReactors-1.12.2-0.4.5.50.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: FarmingForBlockheads_1.12.2-3.1.28.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: FasterLadderClimbing-1.12-0.1-146.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: FastFurnace-1.12.2-1.3.1.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: FastLeafDecay-v14.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: FastWorkbench-1.12.2-1.7.2.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: flatcoloredblocks-mc1.12-6.8.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: FluidCows-1.1.21.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: fluxnetworks-1.12.2-4.0.7-24.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: foamfix-0.10.5-1.12.2.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: Forgelin-1.8.4.jar
+[22:44:40] [main/DEBUG] [FML]: Examining file: ForgeMultipart-1.12.2-2.6.2.83-universal.jar
+[22:44:40] [main/DEBUG] [FML]: Found existing ContainDep extracted to S:\FTBSToneBlock\mods\1.12.2\ChickenASM-1.12-1.0.2.7.jar, skipping extraction
+[22:44:41] [main/DEBUG] [FML]: Examining file: framland-1.12.2-1.0.10.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: FTBLib-5.4.1.99.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: FTBQuests-1.5.1.146.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: FTBUtilities-5.4.0.96.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: FTBUtilitiesBackups-1.0.0.4.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: FullscreenWindowed-1.12-1.6.0.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: GasConduits-1.12.2-1.2.2.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: GooglyEyes-1.12.2-7.1.0.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: gravestone-1.10.3.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: HammerCore-1.12.2-2.0.4.7.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: hatchery-1.12.2-2.2.2.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: iChunUtil-1.12.2-7.2.1.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: ImmersiveEngineering-0.12-91.jar
+[22:44:41] [main/DEBUG] [FML]: Found existing ContainedDep META-INF/libraries/ImmersiveEngineering-0.12-91-core.jar(blusunrize:ImmersiveEngineering-core:0.12-91) from S:\FTBSToneBlock\mods\memory_repo\blusunrize\ImmersiveEngineering-core\0.12-91\ImmersiveEngineering-core-0.12-91.jar extracted to .\mods\ImmersiveEngineering-0.12-91.jar, skipping extraction
+[22:44:41] [main/DEBUG] [FML]: Examining file: ImmersiveEngineering-core-0.12-91.jar
+[22:44:41] [main/DEBUG] [FML]: Making maven link for blusunrize:ImmersiveEngineering:0.12-91 in memory to S:\FTBSToneBlock\.\mods\ImmersiveEngineering-0.12-91.jar.
+[22:44:41] [main/DEBUG] [FML]: Examining file: industrialforegoing-1.12.2-1.12.13-237.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: industrialmeat-1.12-1.0.2.jar
+[22:44:41] [main/DEBUG] [FML]: Examining file: IntegratedDynamics-1.12.2-1.1.0.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: IntegratedTunnels-1.12.2-1.6.10.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: IntegrationForegoing-1.12.2-1.9.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: InventoryTweaks-1.64+dev.146.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: IronBackpacks-1.12.2-3.0.8-12.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: ironchest-1.12.2-7.0.72.847.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: ItemFilters-1.0.3.12.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: jehc-1.12.2-1.6.4.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: jei_1.12.2-4.15.0.289.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: JustEnoughEnergistics-1.12.2-1.0.8.jar
+[22:44:42] [main/DEBUG] [FML]: Examining file: JustEnoughResources-1.12.2-0.9.2.60.jar
